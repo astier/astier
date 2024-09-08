@@ -1,4 +1,4 @@
-Some of the [suckless](https://suckless.org/)-patches I wrote:
+My [suckless](https://suckless.org/)-patches:
 
 - st: [netwmicon](https://st.suckless.org/patches/netwmicon/)
 - st: [desktopentry](https://st.suckless.org/patches/desktopentry/)
